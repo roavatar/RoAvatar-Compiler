@@ -1,5 +1,4 @@
-Step 1: Download the Extension Files
-If the extension is a .zip or .crx file, download it to your computer.
+Step 1: Download "RoAvatar Compiler.zip"
 Extract it using a zip tool like WinRAR, 7-Zip, or your computer's default extractor.
 
 Step 2: Enable Developer Mode in Chrome
