@@ -5,4 +5,4 @@ Step 2: Open Chrome and go to chrome://extensions/
 At the top-right corner, toggle on Developer mode.
 
 Step 3: Click on Load unpacked (it appears as a button in Developer mode in the top left corner). 
-Select the "RoAvatar Compiler" folder and it will be added to your extentions and your good to go!
+Select the "RoAvatar Compiler" folder. It will be added to your extentions and your good to go!
